@@ -1,0 +1,10 @@
+C:\Users\genesis\source\repos\paraleloyconcurrente\paraleloyconcurrente\obj\Debug\net6.0\ConcesionariaVehiculos.csproj.AssemblyReference.cache
+C:\Users\genesis\source\repos\paraleloyconcurrente\paraleloyconcurrente\obj\Debug\net6.0\ConcesionariaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genesis\source\repos\paraleloyconcurrente\paraleloyconcurrente\obj\Debug\net6.0\ConcesionariaVehiculos.AssemblyInfoInputs.cache
+C:\Users\genesis\source\repos\paraleloyconcurrente\paraleloyconcurrente\obj\Debug\net6.0\ConcesionariaVehiculos.AssemblyInfo.cs
+C:\Users\genesis\source\repos\paraleloyconcurrente\paraleloyconcurrente\obj\Debug\net6.0\ConcesionariaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\genesis\Desktop\concesionaria\obj\Debug\net6.0\ConcesionariaVehiculos.csproj.AssemblyReference.cache
+C:\Users\genesis\Desktop\concesionaria\obj\Debug\net6.0\ConcesionariaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genesis\Desktop\concesionaria\obj\Debug\net6.0\ConcesionariaVehiculos.AssemblyInfoInputs.cache
+C:\Users\genesis\Desktop\concesionaria\obj\Debug\net6.0\ConcesionariaVehiculos.AssemblyInfo.cs
+C:\Users\genesis\Desktop\concesionaria\obj\Debug\net6.0\ConcesionariaVehiculos.csproj.CoreCompileInputs.cache
